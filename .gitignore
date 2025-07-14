@@ -31,6 +31,7 @@ public/user-uploads/public/hot
 /storage/installed
 ngrok
 /bootstrap/cache/*
+!/bootstrap/cache/.gitignore
 froiden-verify/
 *.zip
 .DS_Store
